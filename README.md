@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![HTML](https://img.shields.io/badge/-HTML-blue?logo=html)
-![CSS](https://e7.pngegg.com/pngimages/66/60/png-clipart-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-thumbnail.png)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css)
 ### Currently I am...
 - I am learning Web Development
 - Doing small projects to get more clarity on the fundamental concepts of css
