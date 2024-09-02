@@ -4,6 +4,7 @@
 ### Tech stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+![HTML](https://img.shields.io/badge/-HTML-blue?logo=html)
 ### Currently I am...
 - I am learning Web Development
 - Doing small projects to get more clarity on the fundamental concepts of css
