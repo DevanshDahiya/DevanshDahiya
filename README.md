@@ -1,12 +1,11 @@
 <h1 align="left">Hi 👋, I'm Devansh Dahiya</h1>
 <h3 align="left">A passionate about problem solving and Web Developer developer from India ,</h3>
 
-- 📫 How to reach me **devanshdahiya219@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/devansh-dahiya-4161101b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devansh-dahiya-4161101b9/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devanshdahiya219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshdahiya219" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/devansh-dahiya-4161101b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devansh-dahiya-4161101b9/" height="30" width="40" /></a>&nbsp;&nbsp;
+<a href="https://www.leetcode.com/devanshdahiya219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshdahiya219" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/devanshda59j6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devanshda59j6" height="30" width="40" /></a>
 </p>
 
