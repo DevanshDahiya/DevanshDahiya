@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devansh-dahiya-4161101b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devansh-dahiya-4161101b9/" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.leetcode.com/devanshdahiya219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devanshdahiya219" height="30" width="40" /></a>&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/devanshda59j6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="devanshda59j6" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/devanshdahiya219" target="blank"><img align="center" src="https://icons8.com/icon/GO78dOMqYNlA/external-codeforces-programming-competitions-and-contests-programming-community-logo-filled-tal-revivo" alt="devanshdahiya219" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
