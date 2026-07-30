@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Devansh Dahiya</h1>
-<h3 align="left">A passionate about problem solving and Web Developer developer from India ,</h3>
+<h3 align="left">I'm passionate about problem solving and Web Developer developer from India ,</h3>
 
 
 <h3 align="left">Connect with me:</h3>
